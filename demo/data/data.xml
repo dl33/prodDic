@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+    <name>男士套装</name>
+    <productor>
+        <name>欧莱雅男士火山岩控油清痘洁面膏</name>
+        <info>
+            <tag>
+                <name>产品名称</name>
+                <value>欧莱雅男士火山岩控油清痘洁面膏</value>
+            </tag>
+            <tag>
+                <name>价格</name>
+                <value>39元/100ml</value>
+            </tag>
+            <tag>
+                <name>上市时间</name>
+                <value>2013年3月 货价／专柜</value>
+            </tag>
+            <tag>
+                <name>目标人群</name>
+                <value>18-25男性</value>
+            </tag>
+            <tag>
+                <name>目标客户</name>
+                <value>a) 皮肤干性、中性，易缺水、易泛油光</value>
+                <value>b) 使用过8重功效醒肤露或极润霜</value>
+            </tag>
+            <tag>
+                <name>一句话的销售话述</name>
+                <value>“独创【皮肤冰感系统】，蕴含法国深海冰泉和哑光抑汗因子，能让皮肤立即降温3度，冰爽清凉，持久保湿。”</value>
+            </tag>
+        </info>
+        <feature>
+            <tage>
+                <name>独创【皮肤冰感系统】</name>
+                <value>能让皮肤立即降温3度，冰爽清凉</value>
+            </tage>
+            <tag>
+                <name>法国深海冰泉</name>
+                <value>持久清爽保湿</value>
+            </tag>
+            <tag>
+                <name>哑光抑汗因子</name>
+                <value>清爽抑汗</value>
+            </tag>
+        </feature>
+        <salePoint>
+            <tag>
+                <name>1</name>
+                <value>任何购买男士劲能洁面产品的顾客，在4-8月份，都建议连带销售劲能冰酷水份露</value>
+            </tag>
+            <tag>
+                <name>2</name>
+                <value>通过向顾客强调我们的优势“独创【皮肤冰感系统】，能给皮肤带来“即刻冰凉感受”和“持久保湿，清爽抑汗”来吸引顾客。</value>
+            </tag>
+        </salePoint>
+        <faq>
+            <tag>
+                <name>夏天容易出汗，用护肤品会更油，所以我不用。</name>
+                <value>夏天，男生皮肤易出汗的原因就是因为皮肤水分不足，所以补水保湿是首要任务！且选择一款无油不粘腻的护肤品更是关键，让皮肤保湿，减少出油！欧莱雅男士劲能冰酷水份露，首创“皮肤冷感系统”，蕴含法国深海冰泉，能让皮肤迅速降温；哑光抑汗因子能清爽抑汗，不让皮肤持续出油！是款夏天必备的保湿产品！</value>
+            </tag>
+        </faq>
+    </productor>
+</catalog>
